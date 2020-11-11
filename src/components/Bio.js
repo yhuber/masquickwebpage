@@ -19,5 +19,6 @@ export default ({ settings }) => (
       }}
     />
     <div dangerouslySetInnerHTML={{ __html: settings.author_bio }} />
+    <div>hallo das ist ein test</div>
   </div>
 )
